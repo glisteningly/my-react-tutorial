@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1464988635157,
+        "author": "ben",
+        "text": "*abc*"
+    },
+    {
+        "id": 1488209175264,
+        "author": "AreX",
+        "text": "asdwasd123"
+    },
+    {
+        "id": 1488339068832,
+        "author": "测试链接",
+        "text": "[This link](http://example.net/) 这是个链接"
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "my-react-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "remarkable": "^1.7.1",
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.0.2",
+    "react-scripts": "0.9.3"
+  },
+  "scripts": {
+    "server": "node server.js",
+    "start-js": "react-scripts start",
+    "start": "npm-run-all -p server start-js",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
